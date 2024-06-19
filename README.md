@@ -7,13 +7,12 @@
 # Chad's Markdown File
 
 
-### Testing communication skills with markdown
+### Testing communication & formatting skills with markdown
 
 
 ### Steps involved
 
-
-- Made changes to `index.md`
+- Made changes to `README.md`
 - Merged changes to the `main` branch
 - Profit $$$$
 
