@@ -15,5 +15,5 @@
 
 - Made changes to `index.md`
 - Merged changes to the `main` branch
-- Profit $$$$
+- Profit $$$
 
