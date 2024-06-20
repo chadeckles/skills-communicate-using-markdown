@@ -6,6 +6,7 @@
 
 # Chad's Markdown File
 
+Current version number: `v5`
 
 ### Testing communication & formatting skills with markdown
 
@@ -19,7 +20,7 @@
 #### Code area section
 
 ``` 
-Testing code area section v4
+Testing code area section
 
 ```
 
