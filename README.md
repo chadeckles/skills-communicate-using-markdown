@@ -7,7 +7,7 @@
 # Chad's Markdown File
 
 
-### Testing communication skills with markdown
+### Testing communication & formatting skills with markdown
 
 
 ### Steps involved
@@ -20,7 +20,7 @@
 #### Code area section
 
 ``` 
-Testing code area section v3
+Testing code area section v4
 
 ```
 
